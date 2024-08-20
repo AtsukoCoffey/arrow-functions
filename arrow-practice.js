@@ -61,7 +61,7 @@ console.log(averageMarks);
 // console.log(averageMarks);
 
 
-// Checking if an Object Has a Specific Property
+// Checking if an Object Has a Specific Property - ONLY Object hasOwnProperty
 const obj = {
     name: "Alice",
     age: 25,
